@@ -61,8 +61,9 @@ for i in range(4000):
     action = epsilon_greedy(state,epsilon)
     
     while True:
+        
        
-        # env.render()
+        env.render()
         
         # then we perform the action and move to the next state, and receive the reward
         nextstate, reward, done, _ = env.step(action)

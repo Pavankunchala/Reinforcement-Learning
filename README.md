@@ -5,7 +5,7 @@ And some of the codes could be derived from the research papers
 pre-requisites 
 # Install Gym
 
-pip install gym
+*pip install gym*
 
 or
 

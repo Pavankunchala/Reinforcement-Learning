@@ -52,6 +52,7 @@ epsilon = 0.017
 for i in range(8000):
     r = 0
     prev_state = env.reset()
+    #env.render()
     
     
     while True:

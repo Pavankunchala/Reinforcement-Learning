@@ -3,6 +3,8 @@ In this all Projects dealing with reinforcement learning wil be uploaded
 And some of the codes could be derived from the research papers
 
 pre-requisites 
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fai%25C2%25B3-theory-practice-business%2Freinforcement-learning-part-1-a-brief-introduction-a53a849771cf&psig=AOvVaw3NviVxTp0ZB4Bge1a18ASc&ust=1597756733471000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjN7-apousCFQAAAAAdAAAAABAD)
 # Install Gym
 
 `pip install gym`

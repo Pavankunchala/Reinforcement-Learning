@@ -4,7 +4,7 @@ And some of the codes could be derived from the research papers
 
 pre-requisites 
 
-![alt text](https://images.app.goo.gl/BBUDL5AotQFiK9VB7)
+![alt text](https://www.shutterstock.com/image-vector/machine-learning-algorithm-concept-related-subject-450244438)
 # Install Gym
 
 `pip install gym`

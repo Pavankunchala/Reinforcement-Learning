@@ -1,10 +1,10 @@
 # Reinforcment-Learning
-Reinforcement learning (RL) is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
+**Reinforcement learning (RL)** is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
 
 In this repository we are going have codes for the algorithms of reinforcement learning
  
 
-# Install Gym
+## Install Gym
 
 `pip install gym`
 
@@ -16,9 +16,9 @@ cd gym
 pip install -e .
 ```
 
+### Example
 
-
-An example to see wheter it's working or not
+An example to see wheter _gym_ is working or not
 
 
 ```
@@ -32,8 +32,7 @@ env.close()
 
 ```
 
-
-* the code for Cartpole environment
+### The code for Cartpole environment
 
 ```
 import gym

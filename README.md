@@ -1,8 +1,8 @@
 # Reinforcment-Learning
-In this all Projects dealing with reinforcement learning wil be uploaded 
-And some of the codes could be derived from the research papers
+Reinforcement learning (RL) is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
 
-pre-requisites 
+In this repository we are going have codes for the algorithms of reinforcement learning
+ 
 
 # Install Gym
 

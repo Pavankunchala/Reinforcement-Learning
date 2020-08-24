@@ -2,7 +2,9 @@
 **Reinforcement learning (RL)** is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
 
 In this repository we are going have codes for the algorithms of reinforcement learning
- 
+
+* You can also check the instructions to installation of **Gym** [here](https://gym.openai.com/docs/)
+
 
 ## Install Gym
 

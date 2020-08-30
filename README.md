@@ -55,8 +55,16 @@ env.close()
 ## Table of Contents 
 * [Temporal-Difference](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Temporal-Difference)
 * [K-Armed-Bandit](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/K-armed-Bandit)
-*[Q-learning](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Q-Learning)
-*[Tile-Coding](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Tile-coding%20)
+
+* [Tile-Coding](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Tile-coding%20)
+
+
+* [Q-learnig](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Q-Learning)
+
+* [Deep-Q-network](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Deep-Q-Network)
+
+
+* [Sarsa](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Sarsa)
 
 
 

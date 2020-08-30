@@ -52,5 +52,10 @@ for i_episode in range(20):
 env.close()
 ```
 
+## Table of Contents 
+* [Temporal-Difference](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Temporal-Difference)
+* [K-Armed-Bandit](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/K-armed-Bandit)
+
+
 
 

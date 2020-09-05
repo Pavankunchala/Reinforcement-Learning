@@ -67,5 +67,16 @@ env.close()
 * [Sarsa](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Sarsa)
 
 
+* [Pacman](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Pac-Man)
+
+
+* [Frozen-Lake](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Frozen_lake)
+
+
+* [Reinforce](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Reinforce)
+
+
+* [Upper-Confidence-Bound](https://github.com/Pavankunchala/Reinforcement-Learning/tree/master/Upper-Confidence-Bound%20)
+
 
 
